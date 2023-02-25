@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677350643 source:c:\users\felipe\documents\steffen\room 12\5590 - pyra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
